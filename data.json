@@ -1,0 +1,62 @@
+[
+    {
+        "title" : "Hypnocurrency",
+        "artist" : "Deadmau5",
+        "genre" : ["Dubstep", "Electronic"],
+        "year" : "2015"
+    },
+    {
+        "title" : "Love Again",
+        "artist" : "Dua Lipa",
+        "genre" : ["Pop", "R&B"],
+        "year" : "2013"
+    },
+    {
+        "title" : "You and Me",
+        "artist" : "Disclosure",
+        "genre" : ["Pop", "Alternative"],
+        "year" : "2013"
+    },
+    {
+        "title" : "Changed the Way You Kiss Me",
+        "artist" : "Example",
+        "genre" : ["Electronic", "Dance"],
+        "year" : "2011"
+    },
+    {
+        "title" : "Red Lips",
+        "artist" : "Skrillex",
+        "genre" : ["Electronic", "Dance"],
+        "year" : "2015"
+    },
+    {
+        "title" : "Too Close",
+        "artist" : "Alex Clare",
+        "genre" : ["Alternative", "Rock"],
+        "year" : "2011"
+    },
+    {
+        "title" : "Ocean Drive",
+        "artist" : "Duke Dumont",
+        "genre" : ["Electronic", "Dance"],
+        "year" : "2015"
+    },
+    {
+        "title" : "Heartless",
+        "artist" : "Kanye West",
+        "genre" : ["Pop", "R&B"],
+        "year" : "2008"
+    },
+    {
+        "title" : "How Deep is Your Love",
+        "artist" : "Calvin Harris",
+        "genre" : ["Electronic", "Dance"],
+        "year" : "2015"
+    },
+    {
+        "title" : "The Business",
+        "artist" : "Tiesto",
+        "genre" : ["Electronic", "Dance"],
+        "year" : "2020"
+    }
+]
